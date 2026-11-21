@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mzeeshan15105.fietscheck",
+        "sha256_cert_fingerprints": ["72:73:5C:C5:70:96:E4:18:FB:E0:70:3A:B3:5B:A7:82:E8:22:6F:CA:A8:6D:CF:89:7F:86:4B:07:03:9C:2B:C8"]
+      }
+    }]
